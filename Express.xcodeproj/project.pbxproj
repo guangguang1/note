@@ -7,12 +7,65 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C5093F951CB7C3BD00667EA3 /* AreaObject1.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5093F941CB7C3BD00667EA3 /* AreaObject1.swift */; };
+		C5093FA91CB7F00000667EA3 /* NewAddressTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5093FA81CB7F00000667EA3 /* NewAddressTableViewCell.swift */; };
+		C5093FAB1CB7F0D800667EA3 /* NewAddressViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5093FAA1CB7F0D800667EA3 /* NewAddressViewController.swift */; };
+		C5093FAD1CB7F9AC00667EA3 /* NewAdd2ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5093FAC1CB7F9AC00667EA3 /* NewAdd2ViewController.swift */; };
+		C51341CC1CB8C3F80072AC9A /* AddressChoicePickerView1.swift in Sources */ = {isa = PBXBuildFile; fileRef = C51341CB1CB8C3F80072AC9A /* AddressChoicePickerView1.swift */; };
+		C51341CE1CB8C9110072AC9A /* AddressChoicePickerView1.xib in Resources */ = {isa = PBXBuildFile; fileRef = C51341CD1CB8C9110072AC9A /* AddressChoicePickerView1.xib */; };
+		C51341D01CB8CEFA0072AC9A /* NewAdd3ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C51341CF1CB8CEFA0072AC9A /* NewAdd3ViewController.swift */; };
+		C51341D21CB8ED000072AC9A /* NewAddress1ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C51341D11CB8ED000072AC9A /* NewAddress1ViewController.swift */; };
+		C51341D41CB8F2660072AC9A /* NewAddress2ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C51341D31CB8F2660072AC9A /* NewAddress2ViewController.swift */; };
+		C51342101CB93CAB0072AC9A /* OrderViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C513420F1CB93CAB0072AC9A /* OrderViewController.swift */; };
+		C51342121CB93CBE0072AC9A /* StarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C51342111CB93CBE0072AC9A /* StarViewController.swift */; };
+		C51342141CB93EF50072AC9A /* TQViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C51342131CB93EF50072AC9A /* TQViewController.swift */; };
+		C56B215A1CBF9E8B00A9C5DA /* Address.swift in Sources */ = {isa = PBXBuildFile; fileRef = C56B21591CBF9E8B00A9C5DA /* Address.swift */; };
+		C56B215C1CBFA93700A9C5DA /* Price.swift in Sources */ = {isa = PBXBuildFile; fileRef = C56B215B1CBFA93700A9C5DA /* Price.swift */; };
+		C56B215E1CBFA9F000A9C5DA /* PriceViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C56B215D1CBFA9F000A9C5DA /* PriceViewController.swift */; };
+		C5719C191CC24BA400145EF3 /* ExpressNormalView1Controller.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5719C181CC24BA400145EF3 /* ExpressNormalView1Controller.swift */; };
+		C5719C1B1CC263AC00145EF3 /* Expresser.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5719C1A1CC263AC00145EF3 /* Expresser.swift */; };
+		C5719C1D1CC2673800145EF3 /* PCommitViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5719C1C1CC2673800145EF3 /* PCommitViewController.swift */; };
+		C58064031CC6422000F6EF58 /* Order.swift in Sources */ = {isa = PBXBuildFile; fileRef = C58064021CC6422000F6EF58 /* Order.swift */; };
+		C58064351CC6540700F6EF58 /* UserOrder.swift in Sources */ = {isa = PBXBuildFile; fileRef = C58064341CC6540700F6EF58 /* UserOrder.swift */; };
+		C58064371CC6573600F6EF58 /* aaa.swift in Sources */ = {isa = PBXBuildFile; fileRef = C58064361CC6573600F6EF58 /* aaa.swift */; };
+		C5AAA1571CE2CADB0039A967 /* Evalution.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5AAA1561CE2CADB0039A967 /* Evalution.swift */; };
+		C5AAA15B1CE2D1D30039A967 /* MyExpressViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5AAA15A1CE2D1D30039A967 /* MyExpressViewController.swift */; };
+		C5EF6B0F1CC2017400463632 /* dropDownView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5EF6B0E1CC2017400463632 /* dropDownView.swift */; };
 		C5FA40F21CB79C53009ADFEB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5FA40F11CB79C53009ADFEB /* AppDelegate.swift */; };
 		C5FA40F41CB79C53009ADFEB /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5FA40F31CB79C53009ADFEB /* ViewController.swift */; };
 		C5FA40F71CB79C53009ADFEB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C5FA40F51CB79C53009ADFEB /* Main.storyboard */; };
 		C5FA40F91CB79C53009ADFEB /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C5FA40F81CB79C53009ADFEB /* Images.xcassets */; };
 		C5FA40FC1CB79C53009ADFEB /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = C5FA40FA1CB79C53009ADFEB /* LaunchScreen.xib */; };
 		C5FA41081CB79C53009ADFEB /* ExpressTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5FA41071CB79C53009ADFEB /* ExpressTests.swift */; };
+		C5FA41121CB79C66009ADFEB /* libsqlite3.0.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = C5FA41111CB79C66009ADFEB /* libsqlite3.0.dylib */; };
+		C5FA41151CB79E85009ADFEB /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5FA41141CB79E85009ADFEB /* FirstViewController.swift */; };
+		C5FA41171CB79EE7009ADFEB /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5FA41161CB79EE7009ADFEB /* LoginViewController.swift */; };
+		C5FA41191CB79F2C009ADFEB /* RegisterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5FA41181CB79F2C009ADFEB /* RegisterViewController.swift */; };
+		C5FA411B1CB79F68009ADFEB /* ChangePasswordViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5FA411A1CB79F68009ADFEB /* ChangePasswordViewController.swift */; };
+		C5FA411D1CB79F84009ADFEB /* RecityPasswordViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5FA411C1CB79F84009ADFEB /* RecityPasswordViewController.swift */; };
+		C5FA411F1CB79FB2009ADFEB /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5FA411E1CB79FB2009ADFEB /* SecondViewController.swift */; };
+		C5FA41231CB7A003009ADFEB /* MyEvaluateViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5FA41221CB7A003009ADFEB /* MyEvaluateViewController.swift */; };
+		C5FA412B1CB7A0C1009ADFEB /* TextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5FA412A1CB7A0C1009ADFEB /* TextView.swift */; };
+		C5FA412D1CB7A0E5009ADFEB /* UpdateViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5FA412C1CB7A0E5009ADFEB /* UpdateViewController.swift */; };
+		C5FA412F1CB7A0F9009ADFEB /* CommentViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5FA412E1CB7A0F9009ADFEB /* CommentViewController.swift */; };
+		C5FA41311CB7A10C009ADFEB /* AboutUsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5FA41301CB7A10C009ADFEB /* AboutUsViewController.swift */; };
+		C5FA41331CB7A120009ADFEB /* SettingViewController1.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5FA41321CB7A120009ADFEB /* SettingViewController1.swift */; };
+		C5FA41371CB7A18B009ADFEB /* CancelTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5FA41361CB7A18B009ADFEB /* CancelTableViewCell.swift */; };
+		C5FA41391CB7A1AC009ADFEB /* CommitViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5FA41381CB7A1AC009ADFEB /* CommitViewController.swift */; };
+		C5FA413B1CB7A20F009ADFEB /* QuestionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5FA413A1CB7A20F009ADFEB /* QuestionViewController.swift */; };
+		C5FA413D1CB7A23A009ADFEB /* AddressChoicePickerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5FA413C1CB7A23A009ADFEB /* AddressChoicePickerView.swift */; };
+		C5FA413F1CB7A277009ADFEB /* AreaObject.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5FA413E1CB7A277009ADFEB /* AreaObject.swift */; };
+		C5FA41451CB7A30A009ADFEB /* TheView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5FA41441CB7A30A009ADFEB /* TheView.swift */; };
+		C5FA41471CB7A335009ADFEB /* TheView1.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5FA41461CB7A335009ADFEB /* TheView1.swift */; };
+		C5FA414B1CB7A3EA009ADFEB /* TimePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5FA414A1CB7A3EA009ADFEB /* TimePicker.swift */; };
+		C5FA414D1CB7A442009ADFEB /* KDCircularProgressGlowMode.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5FA414C1CB7A442009ADFEB /* KDCircularProgressGlowMode.swift */; };
+		C5FA414F1CB7A48A009ADFEB /* ChangeNameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5FA414E1CB7A48A009ADFEB /* ChangeNameViewController.swift */; };
+		C5FA41511CB7A4D6009ADFEB /* UserMessage.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5FA41501CB7A4D6009ADFEB /* UserMessage.swift */; };
+		C5FA41531CB7A678009ADFEB /* AddressChoicePickerView.xib in Resources */ = {isa = PBXBuildFile; fileRef = C5FA41521CB7A678009ADFEB /* AddressChoicePickerView.xib */; };
+		C5FA41551CB7A67E009ADFEB /* TimeChoicePickerView.xib in Resources */ = {isa = PBXBuildFile; fileRef = C5FA41541CB7A67E009ADFEB /* TimeChoicePickerView.xib */; };
+		C5FA41571CB7A682009ADFEB /* AreaPlist.plist in Resources */ = {isa = PBXBuildFile; fileRef = C5FA41561CB7A682009ADFEB /* AreaPlist.plist */; };
+		C5FA415B1CB7A6EE009ADFEB /* AreaPlist1.plist in Resources */ = {isa = PBXBuildFile; fileRef = C5FA415A1CB7A6EE009ADFEB /* AreaPlist1.plist */; };
+		C5FC8AB71CC8E40C00C77C01 /* MyExpressView1.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5FC8AB61CC8E40C00C77C01 /* MyExpressView1.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -26,6 +79,30 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		C5093F941CB7C3BD00667EA3 /* AreaObject1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = AreaObject1.swift; path = Express.xcodeproj/../AreaObject1.swift; sourceTree = SOURCE_ROOT; };
+		C5093FA81CB7F00000667EA3 /* NewAddressTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = NewAddressTableViewCell.swift; path = Express.xcodeproj/../NewAddressTableViewCell.swift; sourceTree = SOURCE_ROOT; };
+		C5093FAA1CB7F0D800667EA3 /* NewAddressViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NewAddressViewController.swift; sourceTree = "<group>"; };
+		C5093FAC1CB7F9AC00667EA3 /* NewAdd2ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = NewAdd2ViewController.swift; path = Express.xcodeproj/../NewAdd2ViewController.swift; sourceTree = SOURCE_ROOT; };
+		C51341CB1CB8C3F80072AC9A /* AddressChoicePickerView1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = AddressChoicePickerView1.swift; path = Express.xcodeproj/../AddressChoicePickerView1.swift; sourceTree = SOURCE_ROOT; };
+		C51341CD1CB8C9110072AC9A /* AddressChoicePickerView1.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = AddressChoicePickerView1.xib; sourceTree = SOURCE_ROOT; };
+		C51341CF1CB8CEFA0072AC9A /* NewAdd3ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NewAdd3ViewController.swift; sourceTree = "<group>"; };
+		C51341D11CB8ED000072AC9A /* NewAddress1ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NewAddress1ViewController.swift; sourceTree = "<group>"; };
+		C51341D31CB8F2660072AC9A /* NewAddress2ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = NewAddress2ViewController.swift; path = Express.xcodeproj/../NewAddress2ViewController.swift; sourceTree = SOURCE_ROOT; };
+		C513420F1CB93CAB0072AC9A /* OrderViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = OrderViewController.swift; path = Express.xcodeproj/../OrderViewController.swift; sourceTree = SOURCE_ROOT; };
+		C51342111CB93CBE0072AC9A /* StarViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = StarViewController.swift; path = ../Express.xcodeproj/StarViewController.swift; sourceTree = "<group>"; };
+		C51342131CB93EF50072AC9A /* TQViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = TQViewController.swift; path = Express.xcodeproj/../TQViewController.swift; sourceTree = SOURCE_ROOT; };
+		C56B21591CBF9E8B00A9C5DA /* Address.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Address.swift; path = Express.xcodeproj/../Address.swift; sourceTree = SOURCE_ROOT; };
+		C56B215B1CBFA93700A9C5DA /* Price.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Price.swift; sourceTree = "<group>"; };
+		C56B215D1CBFA9F000A9C5DA /* PriceViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = PriceViewController.swift; path = Express.xcodeproj/../PriceViewController.swift; sourceTree = SOURCE_ROOT; };
+		C5719C181CC24BA400145EF3 /* ExpressNormalView1Controller.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ExpressNormalView1Controller.swift; path = Express.xcodeproj/../ExpressNormalView1Controller.swift; sourceTree = SOURCE_ROOT; };
+		C5719C1A1CC263AC00145EF3 /* Expresser.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Expresser.swift; sourceTree = "<group>"; };
+		C5719C1C1CC2673800145EF3 /* PCommitViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = PCommitViewController.swift; path = Express.xcodeproj/../PCommitViewController.swift; sourceTree = SOURCE_ROOT; };
+		C58064021CC6422000F6EF58 /* Order.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Order.swift; path = Express.xcodeproj/../Order.swift; sourceTree = SOURCE_ROOT; };
+		C58064341CC6540700F6EF58 /* UserOrder.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = UserOrder.swift; path = Express.xcodeproj/../UserOrder.swift; sourceTree = SOURCE_ROOT; };
+		C58064361CC6573600F6EF58 /* aaa.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = aaa.swift; sourceTree = "<group>"; };
+		C5AAA1561CE2CADB0039A967 /* Evalution.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Evalution.swift; path = Express.xcodeproj/../Evalution.swift; sourceTree = SOURCE_ROOT; };
+		C5AAA15A1CE2D1D30039A967 /* MyExpressViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = MyExpressViewController.swift; path = Express.xcodeproj/../MyExpressViewController.swift; sourceTree = SOURCE_ROOT; };
+		C5EF6B0E1CC2017400463632 /* dropDownView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = dropDownView.swift; path = Express.xcodeproj/../dropDownView.swift; sourceTree = SOURCE_ROOT; };
 		C5FA40EC1CB79C53009ADFEB /* Express.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Express.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C5FA40F01CB79C53009ADFEB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C5FA40F11CB79C53009ADFEB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -36,6 +113,36 @@
 		C5FA41011CB79C53009ADFEB /* ExpressTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ExpressTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C5FA41061CB79C53009ADFEB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C5FA41071CB79C53009ADFEB /* ExpressTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExpressTests.swift; sourceTree = "<group>"; };
+		C5FA41111CB79C66009ADFEB /* libsqlite3.0.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libsqlite3.0.dylib; path = usr/lib/libsqlite3.0.dylib; sourceTree = SDKROOT; };
+		C5FA41131CB79C98009ADFEB /* Express-Brigding-Hearder.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Express-Brigding-Hearder.h"; sourceTree = SOURCE_ROOT; };
+		C5FA41141CB79E85009ADFEB /* FirstViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = FirstViewController.swift; path = ../Express.xcodeproj/FirstViewController.swift; sourceTree = "<group>"; };
+		C5FA41161CB79EE7009ADFEB /* LoginViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = LoginViewController.swift; path = Express.xcodeproj/../LoginViewController.swift; sourceTree = SOURCE_ROOT; };
+		C5FA41181CB79F2C009ADFEB /* RegisterViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = RegisterViewController.swift; path = ../Express.xcodeproj/RegisterViewController.swift; sourceTree = "<group>"; };
+		C5FA411A1CB79F68009ADFEB /* ChangePasswordViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ChangePasswordViewController.swift; path = Express.xcodeproj/../ChangePasswordViewController.swift; sourceTree = SOURCE_ROOT; };
+		C5FA411C1CB79F84009ADFEB /* RecityPasswordViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = RecityPasswordViewController.swift; path = ../Express.xcodeproj/RecityPasswordViewController.swift; sourceTree = "<group>"; };
+		C5FA411E1CB79FB2009ADFEB /* SecondViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SecondViewController.swift; path = Express.xcodeproj/../SecondViewController.swift; sourceTree = SOURCE_ROOT; };
+		C5FA41221CB7A003009ADFEB /* MyEvaluateViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = MyEvaluateViewController.swift; path = Express.xcodeproj/../MyEvaluateViewController.swift; sourceTree = SOURCE_ROOT; };
+		C5FA412A1CB7A0C1009ADFEB /* TextView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = TextView.swift; path = Express.xcodeproj/../TextView.swift; sourceTree = SOURCE_ROOT; };
+		C5FA412C1CB7A0E5009ADFEB /* UpdateViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UpdateViewController.swift; sourceTree = "<group>"; };
+		C5FA412E1CB7A0F9009ADFEB /* CommentViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = CommentViewController.swift; path = Express.xcodeproj/../CommentViewController.swift; sourceTree = SOURCE_ROOT; };
+		C5FA41301CB7A10C009ADFEB /* AboutUsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = AboutUsViewController.swift; path = ../Express.xcodeproj/AboutUsViewController.swift; sourceTree = "<group>"; };
+		C5FA41321CB7A120009ADFEB /* SettingViewController1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SettingViewController1.swift; path = Express.xcodeproj/../SettingViewController1.swift; sourceTree = SOURCE_ROOT; };
+		C5FA41361CB7A18B009ADFEB /* CancelTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CancelTableViewCell.swift; sourceTree = "<group>"; };
+		C5FA41381CB7A1AC009ADFEB /* CommitViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = CommitViewController.swift; path = Express.xcodeproj/../CommitViewController.swift; sourceTree = SOURCE_ROOT; };
+		C5FA413A1CB7A20F009ADFEB /* QuestionViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = QuestionViewController.swift; path = Express.xcodeproj/../QuestionViewController.swift; sourceTree = SOURCE_ROOT; };
+		C5FA413C1CB7A23A009ADFEB /* AddressChoicePickerView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = AddressChoicePickerView.swift; path = Express.xcodeproj/../AddressChoicePickerView.swift; sourceTree = SOURCE_ROOT; };
+		C5FA413E1CB7A277009ADFEB /* AreaObject.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = AreaObject.swift; path = ../Express.xcodeproj/AreaObject.swift; sourceTree = "<group>"; };
+		C5FA41441CB7A30A009ADFEB /* TheView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = TheView.swift; path = ../Express.xcodeproj/TheView.swift; sourceTree = "<group>"; };
+		C5FA41461CB7A335009ADFEB /* TheView1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = TheView1.swift; path = Express.xcodeproj/../TheView1.swift; sourceTree = SOURCE_ROOT; };
+		C5FA414A1CB7A3EA009ADFEB /* TimePicker.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TimePicker.swift; sourceTree = "<group>"; };
+		C5FA414C1CB7A442009ADFEB /* KDCircularProgressGlowMode.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = KDCircularProgressGlowMode.swift; path = Express.xcodeproj/../KDCircularProgressGlowMode.swift; sourceTree = SOURCE_ROOT; };
+		C5FA414E1CB7A48A009ADFEB /* ChangeNameViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ChangeNameViewController.swift; path = ../Express.xcodeproj/ChangeNameViewController.swift; sourceTree = "<group>"; };
+		C5FA41501CB7A4D6009ADFEB /* UserMessage.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = UserMessage.swift; path = Express.xcodeproj/../UserMessage.swift; sourceTree = SOURCE_ROOT; };
+		C5FA41521CB7A678009ADFEB /* AddressChoicePickerView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = AddressChoicePickerView.xib; path = "../../快递/快递/AddressChoicePickerView.xib"; sourceTree = "<group>"; };
+		C5FA41541CB7A67E009ADFEB /* TimeChoicePickerView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = TimeChoicePickerView.xib; path = "../../快递/快递/TimeChoicePickerView.xib"; sourceTree = "<group>"; };
+		C5FA41561CB7A682009ADFEB /* AreaPlist.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = AreaPlist.plist; path = "../../快递/快递/AreaPlist.plist"; sourceTree = "<group>"; };
+		C5FA415A1CB7A6EE009ADFEB /* AreaPlist1.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = AreaPlist1.plist; sourceTree = SOURCE_ROOT; };
+		C5FC8AB61CC8E40C00C77C01 /* MyExpressView1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MyExpressView1.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -43,6 +150,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C5FA41121CB79C66009ADFEB /* libsqlite3.0.dylib in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -59,6 +167,7 @@
 		C5FA40E31CB79C53009ADFEB = {
 			isa = PBXGroup;
 			children = (
+				C5FA41111CB79C66009ADFEB /* libsqlite3.0.dylib */,
 				C5FA40EE1CB79C53009ADFEB /* Express */,
 				C5FA41041CB79C53009ADFEB /* ExpressTests */,
 				C5FA40ED1CB79C53009ADFEB /* Products */,
@@ -77,11 +186,64 @@
 		C5FA40EE1CB79C53009ADFEB /* Express */ = {
 			isa = PBXGroup;
 			children = (
+				C51341D31CB8F2660072AC9A /* NewAddress2ViewController.swift */,
+				C51341D11CB8ED000072AC9A /* NewAddress1ViewController.swift */,
+				C5093FAA1CB7F0D800667EA3 /* NewAddressViewController.swift */,
+				C51341CF1CB8CEFA0072AC9A /* NewAdd3ViewController.swift */,
+				C5093FAC1CB7F9AC00667EA3 /* NewAdd2ViewController.swift */,
+				C5093FA81CB7F00000667EA3 /* NewAddressTableViewCell.swift */,
+				C5719C181CC24BA400145EF3 /* ExpressNormalView1Controller.swift */,
+				C5FC8AB61CC8E40C00C77C01 /* MyExpressView1.swift */,
+				C5AAA15A1CE2D1D30039A967 /* MyExpressViewController.swift */,
+				C5AAA1561CE2CADB0039A967 /* Evalution.swift */,
+				C5719C1C1CC2673800145EF3 /* PCommitViewController.swift */,
+				C5FA41381CB7A1AC009ADFEB /* CommitViewController.swift */,
+				C58064341CC6540700F6EF58 /* UserOrder.swift */,
+				C58064021CC6422000F6EF58 /* Order.swift */,
+				C5EF6B0E1CC2017400463632 /* dropDownView.swift */,
+				C513420F1CB93CAB0072AC9A /* OrderViewController.swift */,
+				C51342111CB93CBE0072AC9A /* StarViewController.swift */,
+				C51342131CB93EF50072AC9A /* TQViewController.swift */,
+				C56B215D1CBFA9F000A9C5DA /* PriceViewController.swift */,
+				C58064361CC6573600F6EF58 /* aaa.swift */,
+				C56B215B1CBFA93700A9C5DA /* Price.swift */,
+				C5719C1A1CC263AC00145EF3 /* Expresser.swift */,
+				C5093F941CB7C3BD00667EA3 /* AreaObject1.swift */,
+				C56B21591CBF9E8B00A9C5DA /* Address.swift */,
+				C5FA41501CB7A4D6009ADFEB /* UserMessage.swift */,
+				C5FA41461CB7A335009ADFEB /* TheView1.swift */,
+				C5FA41441CB7A30A009ADFEB /* TheView.swift */,
+				C5FA414E1CB7A48A009ADFEB /* ChangeNameViewController.swift */,
+				C5FA413E1CB7A277009ADFEB /* AreaObject.swift */,
+				C51341CB1CB8C3F80072AC9A /* AddressChoicePickerView1.swift */,
+				C5FA413C1CB7A23A009ADFEB /* AddressChoicePickerView.swift */,
+				C5FA414A1CB7A3EA009ADFEB /* TimePicker.swift */,
+				C5FA413A1CB7A20F009ADFEB /* QuestionViewController.swift */,
+				C5FA414C1CB7A442009ADFEB /* KDCircularProgressGlowMode.swift */,
+				C5FA41361CB7A18B009ADFEB /* CancelTableViewCell.swift */,
 				C5FA40F11CB79C53009ADFEB /* AppDelegate.swift */,
 				C5FA40F31CB79C53009ADFEB /* ViewController.swift */,
+				C5FA41141CB79E85009ADFEB /* FirstViewController.swift */,
+				C5FA41161CB79EE7009ADFEB /* LoginViewController.swift */,
+				C5FA41181CB79F2C009ADFEB /* RegisterViewController.swift */,
+				C5FA411A1CB79F68009ADFEB /* ChangePasswordViewController.swift */,
+				C5FA411C1CB79F84009ADFEB /* RecityPasswordViewController.swift */,
+				C5FA411E1CB79FB2009ADFEB /* SecondViewController.swift */,
+				C5FA41221CB7A003009ADFEB /* MyEvaluateViewController.swift */,
+				C5FA412A1CB7A0C1009ADFEB /* TextView.swift */,
+				C5FA412C1CB7A0E5009ADFEB /* UpdateViewController.swift */,
+				C5FA412E1CB7A0F9009ADFEB /* CommentViewController.swift */,
+				C5FA41301CB7A10C009ADFEB /* AboutUsViewController.swift */,
+				C5FA41321CB7A120009ADFEB /* SettingViewController1.swift */,
 				C5FA40F51CB79C53009ADFEB /* Main.storyboard */,
 				C5FA40F81CB79C53009ADFEB /* Images.xcassets */,
+				C5FA415A1CB7A6EE009ADFEB /* AreaPlist1.plist */,
+				C5FA41561CB7A682009ADFEB /* AreaPlist.plist */,
+				C5FA41521CB7A678009ADFEB /* AddressChoicePickerView.xib */,
+				C51341CD1CB8C9110072AC9A /* AddressChoicePickerView1.xib */,
+				C5FA41541CB7A67E009ADFEB /* TimeChoicePickerView.xib */,
 				C5FA40FA1CB79C53009ADFEB /* LaunchScreen.xib */,
+				C5FA41131CB79C98009ADFEB /* Express-Brigding-Hearder.h */,
 				C5FA40EF1CB79C53009ADFEB /* Supporting Files */,
 			);
 			path = Express;
@@ -192,9 +354,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C51341CE1CB8C9110072AC9A /* AddressChoicePickerView1.xib in Resources */,
 				C5FA40F71CB79C53009ADFEB /* Main.storyboard in Resources */,
 				C5FA40FC1CB79C53009ADFEB /* LaunchScreen.xib in Resources */,
+				C5FA41531CB7A678009ADFEB /* AddressChoicePickerView.xib in Resources */,
 				C5FA40F91CB79C53009ADFEB /* Images.xcassets in Resources */,
+				C5FA415B1CB7A6EE009ADFEB /* AreaPlist1.plist in Resources */,
+				C5FA41571CB7A682009ADFEB /* AreaPlist.plist in Resources */,
+				C5FA41551CB7A67E009ADFEB /* TimeChoicePickerView.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -212,8 +379,55 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C5FA411F1CB79FB2009ADFEB /* SecondViewController.swift in Sources */,
+				C5FA41371CB7A18B009ADFEB /* CancelTableViewCell.swift in Sources */,
+				C56B215E1CBFA9F000A9C5DA /* PriceViewController.swift in Sources */,
+				C5FA41451CB7A30A009ADFEB /* TheView.swift in Sources */,
+				C5FA41171CB79EE7009ADFEB /* LoginViewController.swift in Sources */,
+				C5FA41191CB79F2C009ADFEB /* RegisterViewController.swift in Sources */,
+				C5FA413D1CB7A23A009ADFEB /* AddressChoicePickerView.swift in Sources */,
+				C5FA412B1CB7A0C1009ADFEB /* TextView.swift in Sources */,
+				C5719C1D1CC2673800145EF3 /* PCommitViewController.swift in Sources */,
+				C51341D01CB8CEFA0072AC9A /* NewAdd3ViewController.swift in Sources */,
+				C56B215C1CBFA93700A9C5DA /* Price.swift in Sources */,
+				C5FA41151CB79E85009ADFEB /* FirstViewController.swift in Sources */,
+				C51342141CB93EF50072AC9A /* TQViewController.swift in Sources */,
+				C5FA411B1CB79F68009ADFEB /* ChangePasswordViewController.swift in Sources */,
+				C5AAA1571CE2CADB0039A967 /* Evalution.swift in Sources */,
+				C5719C1B1CC263AC00145EF3 /* Expresser.swift in Sources */,
+				C5093FA91CB7F00000667EA3 /* NewAddressTableViewCell.swift in Sources */,
+				C51341CC1CB8C3F80072AC9A /* AddressChoicePickerView1.swift in Sources */,
+				C5FA41511CB7A4D6009ADFEB /* UserMessage.swift in Sources */,
+				C56B215A1CBF9E8B00A9C5DA /* Address.swift in Sources */,
+				C5FA412F1CB7A0F9009ADFEB /* CommentViewController.swift in Sources */,
+				C58064031CC6422000F6EF58 /* Order.swift in Sources */,
+				C5FA413B1CB7A20F009ADFEB /* QuestionViewController.swift in Sources */,
+				C58064371CC6573600F6EF58 /* aaa.swift in Sources */,
+				C5FA411D1CB79F84009ADFEB /* RecityPasswordViewController.swift in Sources */,
+				C5FA41231CB7A003009ADFEB /* MyEvaluateViewController.swift in Sources */,
+				C5FA41311CB7A10C009ADFEB /* AboutUsViewController.swift in Sources */,
+				C51341D41CB8F2660072AC9A /* NewAddress2ViewController.swift in Sources */,
+				C5AAA15B1CE2D1D30039A967 /* MyExpressViewController.swift in Sources */,
+				C5FA41391CB7A1AC009ADFEB /* CommitViewController.swift in Sources */,
+				C5FA414D1CB7A442009ADFEB /* KDCircularProgressGlowMode.swift in Sources */,
+				C5EF6B0F1CC2017400463632 /* dropDownView.swift in Sources */,
+				C5093F951CB7C3BD00667EA3 /* AreaObject1.swift in Sources */,
+				C5FC8AB71CC8E40C00C77C01 /* MyExpressView1.swift in Sources */,
+				C5719C191CC24BA400145EF3 /* ExpressNormalView1Controller.swift in Sources */,
+				C58064351CC6540700F6EF58 /* UserOrder.swift in Sources */,
 				C5FA40F41CB79C53009ADFEB /* ViewController.swift in Sources */,
+				C5FA413F1CB7A277009ADFEB /* AreaObject.swift in Sources */,
+				C5093FAB1CB7F0D800667EA3 /* NewAddressViewController.swift in Sources */,
+				C5FA414B1CB7A3EA009ADFEB /* TimePicker.swift in Sources */,
 				C5FA40F21CB79C53009ADFEB /* AppDelegate.swift in Sources */,
+				C5093FAD1CB7F9AC00667EA3 /* NewAdd2ViewController.swift in Sources */,
+				C5FA412D1CB7A0E5009ADFEB /* UpdateViewController.swift in Sources */,
+				C5FA41471CB7A335009ADFEB /* TheView1.swift in Sources */,
+				C5FA41331CB7A120009ADFEB /* SettingViewController1.swift in Sources */,
+				C51342121CB93CBE0072AC9A /* StarViewController.swift in Sources */,
+				C51342101CB93CAB0072AC9A /* OrderViewController.swift in Sources */,
+				C51341D21CB8ED000072AC9A /* NewAddress1ViewController.swift in Sources */,
+				C5FA414F1CB7A48A009ADFEB /* ChangeNameViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -345,6 +559,7 @@
 				INFOPLIST_FILE = Express/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "/Users/lianghuiguang/Desktop/IOS/Express/Express-Brigding-Hearder.h";
 			};
 			name = Debug;
 		};
@@ -355,6 +570,7 @@
 				INFOPLIST_FILE = Express/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "/Users/lianghuiguang/Desktop/IOS/Express/Express-Brigding-Hearder.h";
 			};
 			name = Release;
 		};
@@ -411,6 +627,7 @@
 				C5FA410D1CB79C53009ADFEB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		C5FA410E1CB79C53009ADFEB /* Build configuration list for PBXNativeTarget "ExpressTests" */ = {
 			isa = XCConfigurationList;
@@ -419,6 +636,7 @@
 				C5FA41101CB79C53009ADFEB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
